@@ -1,18 +1,23 @@
-.sections{
-    display: grid;
-    grid-template-rows: 1fr 1fr;
-    grid-template-columns: 1fr 1fr 1fr;
-    justify-content: space-between;
-    width: 90%;
-    margin: 0 auto;
+.sections {
+  display: grid;
+  grid-template-rows: 15em 15em;
+  grid-template-columns: repeat(3, 28em);
+  justify-content: space-between;
+  width: 90%;
+  gap: 2.5em;
+  margin: 0 auto;
 }
 
-.sections__cards{
-    width: 25em;
-    height: 15em;
+.sections__cards {
+  width: 100%;
+  height: 100%;
 }
 
-.cards__images{
-    width: 100%;
+.cards__images {
+  width: 100%;
+  height: 100%;
+}
 
+.image-series:hover {
+  cursor: pointer;
 }

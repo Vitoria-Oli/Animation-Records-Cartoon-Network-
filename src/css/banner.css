@@ -1,9 +1,10 @@
 .banner {
-    max-width: 90%;
-    height: 13em;
-    margin: auto;
-    background-image: url("../assets/banner-cartoon-network.jpg");
-    background-position: 10% 80%;
-    background-size: cover;
-    margin-top: 1.5em;
-  }
+  max-width: 90%;
+  height: 13em;
+  margin: auto;
+  background-image: url("../assets/banner-cartoon-network.jpg");
+  background-position: 10% 80%;
+  background-size: cover;
+  margin-top: 1.5em;
+  margin-bottom: 2em;
+}
