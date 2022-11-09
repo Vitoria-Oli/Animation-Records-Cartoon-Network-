@@ -1,18 +1,9 @@
-.banner{
-    width: 100%; 
-    height: 6em;
-    display: flex;
-    justify-content:center;
-    background-image: url(../assets/banner-cartoon-network.jpg);
+.banner {
+    max-width: 90%;
+    height: 13em;
+    margin: auto;
+    background-image: url("../assets/banner-cartoon-network.jpg");
+    background-position: 10% 80%;
     background-size: cover;
-    background-repeat: no-repeat;
-    position: relative;
-    left: 10%;
-    
-}
-
-.banner__img{
-    width: 80%;
-    height: 8em;
-    margin: 0 auto;
-}
+    margin-top: 1.5em;
+  }
