@@ -1,39 +1,5 @@
-header {
-  width: 100%;
-}
-.header__container-image {
-  display: flex;
-  width: 100%;
-  justify-content: space-between;
-  align-items: center;
-}
-.image {
-  width: 10%;
-}
-.image-logo {
-  width: 20%;
-  margin: 0 auto;
-}
-.image-carro {
-  width: 3%;
-  height: 3%;
-  margin-right: 6.4em;
-}
-.header__menu{
-    width: 90%;
-    background-color: black;
-    height: 5em;
-    margin: 0 auto;
-}
-.menu__list{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    list-style: none;
-}
-.list__element{
-    color: white;
-    font-size: 2em;
-    border-right: 1px solid white;
-    padding: .5em;
+@import url(./header.css);
+@font-face {
+    font-family: "cartoon";
+    src: url("../assets/Cartoon\ Slam.ttf");
 }
