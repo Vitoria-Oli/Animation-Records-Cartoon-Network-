@@ -1,18 +1,11 @@
-.sections__1{
-    width: 90%;
+.sections{
     display: flex;
-    justify-content: space-evenly;
-
-}
-
-.sections__2{
     width: 90%;
-    display: flex;
-    justify-content: space-evenly;
-    
-}
-.image-series{
-    width: 40%;
+    justify-content: center;
 }
 
+.sections__cards{
+    width: 5em;
+    height: 5em;
+}
 
