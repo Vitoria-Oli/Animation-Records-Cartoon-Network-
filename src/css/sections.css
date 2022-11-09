@@ -1,11 +1,18 @@
 .sections{
-    display: flex;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-between;
     width: 90%;
-    justify-content: center;
+    margin: 0 auto;
 }
 
 .sections__cards{
-    width: 5em;
-    height: 5em;
+    width: 25em;
+    height: 15em;
 }
 
+.cards__images{
+    width: 100%;
+
+}
