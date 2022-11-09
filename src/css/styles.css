@@ -1,24 +1,20 @@
-header{
-    width: 100%;
+header {
+  width: 100%;
 }
-.header__container-image{
-    display: flex;
-    width: 100%;
-    justify-content: center;
-    
+.header__container-image {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
 }
-.image{
-    width: 10%;
+.image {
+  width: 10%;
 }
-.image-logo{
-    width: 20%;
-    margin: 0 auto;
+.image-logo {
+  width: 20%;
+  margin: 0 auto;
 }
-.image-carro{
-    width: 3%;
-    height: 3%;
-    justify-items: flex-end;    
-}
-.push-right{
-    margin-left: auto;
+.image-carro {
+  width: 3%;
+  height: 3%;
 }
