@@ -26,8 +26,9 @@ header {
 .header__menu {
   width: 90%;
   background-color: black;
-  height: 5em;
+  height: 2.4em;
   margin: 0 auto;
+  margin-bottom: 2em;
 }
 .menu__list {
   display: flex;
@@ -38,7 +39,7 @@ header {
 }
 .list__element {
   color: white;
-  font-size: 2em;
+  font-size: 1em;
   padding: 0.5em;
   font-family: "cartoon";
   border: 1px solid black;
