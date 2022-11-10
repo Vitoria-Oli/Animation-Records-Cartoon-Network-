@@ -1,6 +1,6 @@
 .sections {
   display: grid;
-  grid-template-rows: 15em 15em;
+  grid-template-rows: 11em 11em;
   grid-template-columns: repeat(3, 20em);
   justify-content: space-between;
   width: 90%;
