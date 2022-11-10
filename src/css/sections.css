@@ -1,7 +1,7 @@
 .sections {
   display: grid;
   grid-template-rows: 15em 15em;
-  grid-template-columns: repeat(3, 28em);
+  grid-template-columns: repeat(3, 20em);
   justify-content: space-between;
   width: 90%;
   gap: 2.5em;
@@ -21,3 +21,5 @@
 .image-series:hover {
   cursor: pointer;
 }
+
+
