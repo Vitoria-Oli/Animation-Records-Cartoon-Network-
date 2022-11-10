@@ -1,5 +1,9 @@
 # Animation Records Cartoon Network
 <h4>Trabajon en grupo hecho por:Enol, Omar, Natalia, Manu, Diego y Vitoria </h4>
+<h4>Nombre del proyecto:</h4>
+<p>Cartoon Network</p>
+<h4>objetivo:</h4>
+<p>Desarollar una pagina web de animación.</p>
 
 <h2>Requisitos pedidos:</h2>
 <h4>Página Home:</h4>
