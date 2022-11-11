@@ -132,7 +132,7 @@ q:after {
 form,
 textarea,
 select,
-button {
+button{
   font-family: inherit;
   font-size: inherit;
   -webkit-hyphens: auto;
