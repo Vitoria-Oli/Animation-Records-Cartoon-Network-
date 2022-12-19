@@ -1,0 +1,126 @@
+footer {
+  background-color: rgb(19, 3, 22);
+  width: 100%;
+  height: 13em;
+  display: flex;
+  margin-top: 2em;
+  padding-left: 3em;
+  color: white;
+}
+
+.footer__subscription {
+  width: 200%;
+  height: 3em;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.subscription__input {
+  width: 50%;
+  margin: 1em;
+  padding: 0.9em;
+  height: 4em;
+  color: white;
+  background: rgb(45, 24, 70);
+}
+
+.subscription__button {
+  position: relative;
+  right: 8%;
+  font-size: 1.5em;
+  height: 3em;
+  cursor: pointer;
+}
+.subscription__newsLetter {
+  color: white;
+  font-size: 1.2em;
+  font-family: "cartoon";
+  margin-left: 0.6em;
+}
+
+.icon-email {
+  font-size: 1em;
+  margin-left: 1em;
+}
+
+.footer__contact {
+  display: flex;
+  flex-direction: column;
+  height: 6em;
+  margin-left: 1em;
+}
+
+.contact__elements {
+  font-size: 0.8em;
+  margin: 0.2em 0;
+  color: grey;
+  cursor: pointer;
+}
+
+.contact__elements--first-element {
+  color: white;
+  font-size: 1em;
+  margin: 0.5em 0;
+}
+
+.footer__social-media {
+  position: relative;
+  right: -30em;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 2em;
+}
+
+.footer__social-media-title {
+  font-family: "cartoon";
+  font-size: 1.5em;
+  margin: 1em;
+}
+
+.icon-media {
+  font-size: 3em;
+  margin: 0.1em;
+  cursor: pointer;
+  padding: 0.2em;
+  border: 1px solid white;
+  color: white;
+}
+
+.icon-media:hover {
+  background-color: black;
+}
+
+.footer__copyright {
+  align-self: flex-end;
+  background: black;
+  bottom: 0;
+
+  width: 100%;
+  display: flex;
+  padding: 1em;
+}
+
+.icon-footer {
+  margin-right: 1em;
+  color: white;
+}
+
+.subscription__conditions {
+  margin-left: 12em;
+  position: relative;
+  top: 1.5em;
+  width: 100%;
+}
+
+.conditions__label {
+  font-size: 1em;
+}
+
+.conditions__cbox {
+  height: 1.5em;
+  width: 1.5em;
+  margin-right: 1em;
+}
